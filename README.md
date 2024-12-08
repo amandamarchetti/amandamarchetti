@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Amanda+Marchetti;I'm+28+years+old;I´m+from+Brasil,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Amanda+Marchetti;I'm+28+years+old;I´m+from+Brazil,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br/>
 
